@@ -1,0 +1,25 @@
+{
+  "name": "eengage",
+  "version": "1.0.0",
+  "description": "project for the yuuvis hackathon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderrick/eengage.git"
+  },
+  "author": "Derrick Wilson-Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderrick/eengage/issues"
+  },
+  "homepage": "https://github.com/coderrick/eengage#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "muse-js":"3.1.0",
+    "@tensorflow/tfjs-core": "1.2.8"
+  }
+}
